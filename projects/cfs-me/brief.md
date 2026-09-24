@@ -2,7 +2,7 @@
 slug: cfs-me
 title: "Causes of myalgic encephalomyelitis"
 disciplines: [neurology, immunology]
-board: ""
+board: "https://github.com/skandaras/ivorytower/issues/14"
 validation_tier: reading
 created: 2026-09-24
 ---
